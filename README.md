@@ -37,5 +37,5 @@ A simple GUI-based Tic Tac Toe game built using Python and Tkinter. Play a class
 2. Run the game using Python:
 
 ```bash
-python tic_tac_toe.py
+python TicTacToe.py
 ```
