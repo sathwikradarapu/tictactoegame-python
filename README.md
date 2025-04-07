@@ -33,7 +33,7 @@ A simple GUI-based Tic Tac Toe game built using Python and Tkinter. Play a class
 
 ## ⚙️ Run the Game
 
-1. Clone or download this repository
+1. Clone this repository using command (git clone https://github.com/sathwikradarapu/tictactoegame-python.git)
 2. Run the game using Python:
 
 ```bash
